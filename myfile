@@ -1,0 +1,9 @@
+git status
+git add myfile
+git status
+git commit -m "my first commit"
+git status
+git log
+git show <commit_id>
+git status
+
